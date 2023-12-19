@@ -1,0 +1,16 @@
+{
+  "name": "especifidade_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "sass":"sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^4.2.0",
+    "sass": "^1.69.5"
+  }
+}
